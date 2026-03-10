@@ -2,8 +2,13 @@
 This repo contains the source code for the project website of the FlowTouch paper located at [flowtouch.github.io](https://flowtouch.github.io/).
 
 If you find FlowTouch useful for your work, please consider citing it:
-```
-coming soon
+```bibtex
+@misc{flowtouch,
+  title={{FlowTouch}: View-Invariant Visuo-Tactile Prediction}, 
+  author={Seongjin Bien and Carlo Kneissl and Tobias J{\"u}lg and Frank Fundel and Thomas Ressler-Antal and Florian Walter and Bj{\"o}rn Ommer and Gitta Kutyniok and Wolfram Burgard},
+  year={2026},
+  url={https://arxiv.org/abs/2603.08255}
+}
 ```
 
 ## Acknowledgments
